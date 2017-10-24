@@ -1,6 +1,14 @@
-Kernel for Nexus 5.
-With ElementalX-8.
-Add patch for Nethunter with Nexmon
-Add patch for Usb Hid Keyboard support
+Kernel ElenentalX-8.0x for Nexus 5.
+
+With patches from Nexmon firmware for Nethunter, 
+to activate internal wireless monitor mode.
+
+With patches for Usb Hid Keyboard from Pelya.
+
+To activate monitor mode, run in Kali terminal:
+source monstart-nh
+
+To stop:
+source monstop-nh
 
 
